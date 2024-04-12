@@ -18,3 +18,4 @@ for i in range(1000):
 connection.commit()
 cursor.close()
 connection.close()
+z
